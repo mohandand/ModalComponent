@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Hello Cilcik on kThe Btton To Open Modal</h1>
+      <h1>Hello Cilcik on kThe Bttons To Open Modal</h1>
       <button className="openBtn" onClick={() => setModalOpen(true)}>
         Open
       </button>
